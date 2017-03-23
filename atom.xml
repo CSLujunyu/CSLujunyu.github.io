@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Johnnyluke/"/>
-  <updated>2017-03-23T02:49:25.964Z</updated>
+  <updated>2017-03-23T12:35:02.567Z</updated>
   <id>https://github.com/Johnnyluke/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FIRST BLOG</title>
+    <link href="https://github.com/Johnnyluke/2017/03/23/first/"/>
+    <id>https://github.com/Johnnyluke/2017/03/23/first/</id>
+    <published>2017-03-23T12:28:22.297Z</published>
+    <updated>2017-03-23T12:35:02.567Z</updated>
+    
+    <content type="html"><![CDATA[<p>试试水</p>
+<p>搭了个blog</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;试试水&lt;/p&gt;
+&lt;p&gt;搭了个blog&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
